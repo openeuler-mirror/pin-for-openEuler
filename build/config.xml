@@ -1,0 +1,13 @@
+BRANCH="master"
+INSTALL_NATIVE="pin-server-0.4.0-2023.09-aarch64-linux"
+
+CMAKE="cmake-3.22.0"
+OPENSSL="openssl-1.1.1m"
+MLIR="llvm-project-12.0.1.src"
+PROTOBUF="protobuf-3.14.0"
+GRPC="grpc-1.41.1"
+CARES="c-ares-1.18.1"
+ABSEIL="abseil-cpp-20220623.1"
+RE2="re2-2021-11-01"
+JSONCPP="jsoncpp-1.9.5"
+SERVER="pin-server-0.4.0"
